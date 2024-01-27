@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guy-charles Gasso</h1>
 <h3 align="center">A Internal Financial Controller passionate about coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcharless&label=Profile%20views&color=0e75b6&style=flat" alt="justcharless" /> </p>
-
 - 🌱 I’m currently learning **Visual Basic for Applications and Python**
 
 - 📫 How to reach me **guycharlesgso@gmail.com**
