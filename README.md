@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guy-charles Gasso</h1>
 <h3 align="center">A Internal Financial Controller passionate about coding</h3>
 
-![c1b12e404c218bd22287808bb213f704](https://github.com/JustCharless/JustCharless/assets/120428561/8031383d-ca75-4e79-abef-3f9cdc5ca37e)
-<img align="center" scr="https://i.pinimg.com/originals/c1/b1/2e/c1b12e404c218bd22287808bb213f704.gif">
+                                                ![pixel-art-rainy-night-lap0nl4ap7ri2eav](https://github.com/JustCharless/JustCharless/assets/120428561/a9213464-5015-4f17-a930-6b88ebccff5f)
+
 
 - 🌱 I’m currently learning **Visual Basic for Applications and Python**
 
