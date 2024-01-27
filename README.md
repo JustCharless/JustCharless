@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guy-charles Gasso</h1>
 <h3 align="center">A Internal Financial Controller passionate about coding</h3>
 
-                                                ![pixel-art-rainy-night-lap0nl4ap7ri2eav](https://github.com/JustCharless/JustCharless/assets/120428561/a9213464-5015-4f17-a930-6b88ebccff5f)
+![pixel-art-rainy-night-lap0nl4ap7ri2eav](https://github.com/JustCharless/JustCharless/assets/120428561/a9213464-5015-4f17-a930-6b88ebccff5f)
 
 
 - 🌱 I’m currently learning **Visual Basic for Applications and Python**
